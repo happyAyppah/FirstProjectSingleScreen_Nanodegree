@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstProjectSingleScr</string>
+
+    <!-- Used in XML -->
+    <string name="time">11AM - 11PM</string>
+    <string name="phoneNumber">9818339232</string>
+    <string name="address">G-9, Dilshad Gadern, Delhi-95</string>
+    <string name="quote">&quot;One of the Best Place to Hangout &quot;</string>
+    <string name="follow_us">Follow us:</string>
+    <string name="ratings">Ratings:</string>
+
+</resources>
