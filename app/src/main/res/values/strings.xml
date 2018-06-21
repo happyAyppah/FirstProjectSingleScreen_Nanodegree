@@ -9,4 +9,7 @@
     <string name="follow_us">Follow us:</string>
     <string name="ratings">Ratings:</string>
 
+    <!--Image Description-->
+    <string name="facebook_icon">facebook_icon</string>
+    <string name="instagram_icon">instagram_icon</string>
 </resources>
